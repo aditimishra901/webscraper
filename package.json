@@ -1,0 +1,23 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "json2csv": "^5.0.7",
+    "node-fetch": "^3.2.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "request-promises": "^1.1.0"
+  }
+}
